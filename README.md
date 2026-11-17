@@ -1,8 +1,8 @@
 # Jeremy Abbott
 
-### Project manager. Automation builder. Practical problem solver.
+### Consultant & External Senior Project Manager
 
-I build tools that take repetitive work out of construction project management and accounting. My projects connect Excel, VBA, Python, Bluebeam, and Sage workflows—from financial projections to invoice processing and document handling.
+I build practical automation that takes repetitive work out of construction project management and accounting. My projects connect Excel, VBA, Python, Bluebeam, and Sage workflows—from financial projections to invoice processing and document handling.
 
 My approach starts with the work: understand the process, find the friction, and build something useful for the people doing it.
 
@@ -34,3 +34,4 @@ The public repositories include earlier versions and experiments. I am organizin
 **Excel & VBA · Python · Bluebeam · Sage · Git · Construction project management**
 
 Outside of work, I make music and build personal productivity tools.
+
